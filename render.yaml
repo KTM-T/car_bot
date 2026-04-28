@@ -2,7 +2,7 @@ services:
   - type: web
     name: car-diagnostic-bot
     runtime: python
-    repo: https://github.com/yourusername/car-diagnostic-bot  # Change this
+    repo: https://github.com/KTM-T/car_bot
     plan: free
     region: oregon
     buildCommand: |
